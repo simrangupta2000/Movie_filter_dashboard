@@ -42,4 +42,4 @@ Through this project, I gained hands-on experience in building interactive dashb
 
 Below is a screenshot of the interactive dashboard created as part of my Power BI practice project.
 
-![Power BI Dashboard]()
+![Power BI Dashboard](https://github.com/simrangupta2000/Movie_filter_dashboard/blob/main/Movie_filter_darshboardView.png)
